@@ -1,0 +1,16 @@
+VALID JSON (RFC 4627)
+Formatted JSON Data
+[  
+   {  
+      "pensamento":"Tente mover o mundo &mdash; o primeiro passo será mover a si mesmo",
+      "autor":"Platão"
+   },
+   {  
+      "pensamento":"Só a educação liberta",
+      "autor":"Epíteto"
+   },
+   {  
+      "pensamento":"Não espere por uma crise para descobrir o que é importante em sua vida",
+      "autor":"Platão"
+   }
+]
